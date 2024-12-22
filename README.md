@@ -14,13 +14,13 @@ Welcome to the **Ludo_Variant_Skill_Analysis** repository! This repository provi
 ## Repository Structure
 
 ├── Data/ <br>
-│   ├── 
-├── Code
-│   ├── ludo_G1.R     # Code to simulate G1 games
-│   ├── ludo_G2.R     # Code to simulate G2 games
-│   ├── ludo_online_data.R     # Code for analyzing gameplay datasets
-│   └── ludo_elo_rating.R      # Code for creating Elo rating system
-├── README.md                  # Overview of the repository
+│   ├── <br>
+├── Code/ <br>
+│   ├── ludo_G1.R     # Code to simulate G1 games <br>
+│   ├── ludo_G2.R     # Code to simulate G2 games <br>
+│   ├── ludo_online_data.R     # Code for analyzing gameplay datasets <br>
+│   └── ludo_elo_rating.R      # Code for creating Elo rating system <br>
+├── README.md                  # Overview of the repository <br>
 
 
 
