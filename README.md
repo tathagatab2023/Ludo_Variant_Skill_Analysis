@@ -13,7 +13,7 @@ Welcome to the **Ludo_Variant_Skill_Analysis** repository! This repository provi
 
 ## Repository Structure
 
-├── Data/
+├── Data/ <br>
 │   ├── 
 ├── Code
 │   ├── ludo_G1.R     # Code to simulate G1 games
